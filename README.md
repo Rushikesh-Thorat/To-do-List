@@ -14,8 +14,3 @@ A simple To-Do List web application that allows users to add, delete, and mark t
 [![Watch the video](https://img.youtube.com/vi/OMlE9ScmpiU/0.jpg)](https://www.youtube.com/watch?v=OMlE9ScmpiU)
 
 
-
-
-[![Hits](https://hits.sh/rushikesh-thorat.github.io/To-do-List.svg)](https://hits.sh/rushikesh-thorat.github.io/To-do-List/)
-
-
