@@ -8,3 +8,6 @@ A simple To-Do List web application that allows users to add, delete, and mark t
 1. Clone the repository:
    ```sh
    git clone https://github.com/Rushikesh-Thorat/To-do-List.git
+
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
+
